@@ -15,8 +15,8 @@
 </div>
 
 ## Projetos:
-- [Youtube Converter - Conversor para download de áudio e video, Libs em Python.]()
-- [FIAP & IFOOD - Solução para Back-Office, Desenvolvimento WEB.](https://www.linkedin.com/posts/pedrofernandesh_desenvolvimentoweb-fiap-challenge-activity-7242530045313855489-QEgp?utm_source=share&utm_medium=member_desktop)
-- [GLOBAL SOLUTION - Solução para análise e desenvolvimento de energia solar, FIGMA.](https://www.linkedin.com/posts/pedrofernandesh_conclu%C3%ADmos-o-global-solution-do-2%C2%BA-semestre-activity-7267523103948169219-AAXk?utm_source=share&utm_medium=member_desktop)
+- [Youtube Converter - Conversor para download de áudio e video | Python e Tkinter](https://github.com/frpedro/ytb)
+- [FIAP x IFood - Solução para Back-Office | Bootstrap, HTML e CSS](https://www.linkedin.com/posts/pedrofernandesh_desenvolvimentoweb-fiap-challenge-activity-7242530045313855489-QEgp?utm_source=share&utm_medium=member_desktop)
+- [FIAP Global Solution - Solução para análise e produção de energia solar | FIGMA](https://www.linkedin.com/posts/pedrofernandesh_conclu%C3%ADmos-o-global-solution-do-2%C2%BA-semestre-activity-7267523103948169219-AAXk?utm_source=share&utm_medium=member_desktop)
 
 
