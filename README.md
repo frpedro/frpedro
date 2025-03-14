@@ -1,4 +1,4 @@
-👦🏽 <b> Olá! Eu sou o Pedro Fernandes. </b>
+# 👦🏽 <b> Olá! Eu sou o Pedro Fernandes. </b>
 
 💻 <b> XP em desenvolvimento de software com Python e Java, gerenciamento de dados com PostgreSQL, consumo de APIs, e desenvolvimento front-end básico com HTML e CSS. Familiaridade com metodologias ágeis como Scrum e Kanban, e versionamento de código com Git. </b>
 
