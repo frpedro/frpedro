@@ -26,4 +26,4 @@
 
 
 ## Linguagens Frequentes
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frpedro&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frpedro&layout=compact&theme=github_dark)
