@@ -1,4 +1,4 @@
-# <b> Pedro Fernandes. </b>
+# <b> Pedro Fernandes </b>
 
 ## Tecnologias
 
