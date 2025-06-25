@@ -1,4 +1,4 @@
-# 👦🏽 <b> Olá! Eu sou o Pedro Fernandes. </b>
+# <b> Pedro Fernandes. </b>
 
 ## Tecnologias
 
