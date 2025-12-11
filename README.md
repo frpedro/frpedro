@@ -1,7 +1,7 @@
 # <b> Pedro Fernandes </b>
 `Engenheiro de Software`
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com foco em soluções backend, busco construir sistemas limpos e escaláveis. Crio minhas próprias soluções para desafios do dia a dia e estou em constante busca por evolução.
+Engenheiro de Software formado pela FIAP, com foco em soluções backend, busco construir sistemas limpos e escaláveis. Crio minhas próprias soluções para desafios do dia a dia e estou em constante busca por evolução.
 
 ---
 
