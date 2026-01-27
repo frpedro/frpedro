@@ -20,10 +20,3 @@
 </p>
 
 </p>
-
----
-
-### <b> Principais Projetos </b>
-- [Saphira - API para Gestão de Investidores e Investimentos | Java, Spring, PostgreSQL, JUnit/Mockito, Swagger, Docker](https://github.com/frpedro/saphira)
-- [TaskS – Gerenciador Inteligente de Tarefas com IA | Node.js, Fastify, Mistral 7B e PostgreSQL](https://github.com/frpedro/task-s)
-- [LeadAPI – API para Gestão de Leads e Intenções de Frete | Node.js, TypeScript, Fastify e PostgreSQL](https://github.com/frpedro/lead-api)
