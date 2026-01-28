@@ -1,10 +1,4 @@
-# <b> Pedro Fernandes </b>
-
-- Desenvolvedor de Software formado pela FIAP.
-- +2 anos de experiência na área de tecnologia.
-- Construo soluções.
-
----
+# <b> Pedro Henrique Fernandes </b>
 
 ### <b> Linguagens e Ferramentas </b>
 <p align="left">
