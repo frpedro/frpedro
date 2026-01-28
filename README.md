@@ -1,4 +1,4 @@
-# <b> Pedro Henrique Fernandes </b>
+# <b> Pedro Fernandes </b>
 
 ### <b> Linguagens e Ferramentas </b>
 <p align="left">
