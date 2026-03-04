@@ -1,7 +1,8 @@
 ## Olá, eu sou o Pedro 👋
 
-Desenvolvedor Full Stack com +2 anos em produção real.
-Construo produtos completos — do banco de dados ao deploy — com qualidade e sem depender de mão.
+#### Desenvolvedor Full Stack com +2 anos em produção real. 
+
+Construo produtos completos, do banco ao deploy.
 
 ---
 
