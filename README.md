@@ -1,5 +1,5 @@
 ## Olá, eu sou o Pedro Henrique👋
-### ``Desenvolvedor Full Stack``
+### ``Desenvolvedor``
 ---
 
 **Stack principal**
